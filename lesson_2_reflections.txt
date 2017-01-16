@@ -1,0 +1,9 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+Sets up git to start tracking file changes.  Have to start somewhere.
+> git init
+
+> git status
+
+
