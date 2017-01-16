@@ -6,4 +6,9 @@ Sets up git to start tracking file changes.  Have to start somewhere.
 
 > git status
 
+Staging Area
+
+Acts as an intermediate holding area between the working directory and the actual repository.  Will allow a set of files to be committed at once.
+
+
 
