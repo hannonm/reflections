@@ -10,5 +10,16 @@ Staging Area
 
 Acts as an intermediate holding area between the working directory and the actual repository.  Will allow a set of files to be committed at once.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+I can test out code without impacting the Master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+See where changes diverged and if there are any lost commits that can't be gotten to.  This can happen if one does a checkout to a specific commit ID then makes changes there and does a commit.  Better to create a new branch at the point of this commit ID and then do commits to that new branch to save!   git branch -b someNewBranch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Capture changes in the current checked out branch.
+See where the changes come in!
 
