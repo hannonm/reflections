@@ -23,3 +23,6 @@ What is the result of merging two branches together? Why do we represent it in t
 Capture changes in the current checked out branch.
 See where the changes come in!
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+There is always the chance that GIT misunderstands the intent when doing a merge. Not as good as the human mind.
