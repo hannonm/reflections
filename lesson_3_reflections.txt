@@ -1,3 +1,8 @@
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I would want to keep my work isolated in a sandbox until I was ready to accept remote updates that might cause problems in my testing.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork is used in GitHub to make a copy from another persons repository to your own.  Basically a clone internal to GitHub that notes where it came from.  clones - used to bring a copy of a repository from a remote to your local machine.  branches - created as a copy of some starting point of a repository and diverges with changes from the point of the copy. To put changes back into the original a merge must be performed.
+.
